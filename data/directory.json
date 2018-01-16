@@ -1,0 +1,135 @@
+[
+    {
+        "name":"Quilliam Brothers", 
+        "location": "Claremont Buildings, 1 Eldon Place",
+        "city": "Newcastle upon Tyne",
+        "postcode": "NE1 7RD", 
+        "long":"-1.612812", 
+        "lat":"54.979318", 
+        "categories": [
+            "tea",
+            "coffee", 
+            "lunch", 
+            "vegetarian"
+        ],
+        "website":""
+    },
+    {
+        "name":"Pink Lane Bakery", 
+        "location": "40 Pink Lane",
+        "city": "Newcastle upon Tyne",
+        "postcode": "NE1 5DY", 
+        "long":"-1.619719", 
+        "lat":"54.970359", 
+        "categories": [
+            "bakery",
+            "coffee"
+        ],
+        "website":""
+    },
+    {
+        "name":"Meet & Treat",
+        "location": "41 Bath Lane",
+        "city": "Newcastle upon Tyne",
+        "postcode": "NE4 5SP",  
+        "long":"-1.621226", 
+        "lat":"54.971338", 
+        "categories": [
+            "tea",
+            "coffee", 
+            "lunch", 
+            "vegetarian"
+        ],
+        "website":""
+    },
+    {
+        "name":"Tea Sutra Teahouse", 
+        "location": "1st Floor, 2 Leazes Park Road",
+        "city": "Newcastle upon Tyne",
+        "postcode": "NE1 4PF", 
+        "long":"-1.617230", 
+        "lat":"54.974709",         
+        "categories": [
+            "tea",
+            "lunch", 
+            "vegetarian"
+        ],
+        "website":""
+    },
+    {
+        "name":"The Journey", 
+        "location": "Higham House, New Bridge Street West",
+        "city": "Newcastle upon Tyne",
+        "postcode": "NE1 8AN", 
+        "long":"-1.608509", 
+        "lat":"54.974677",         
+        "categories": [
+            "tea",
+            "coffee", 
+            "lunch", 
+            "vegetarian"
+        ],
+        "website":"http://www.thejourneynewcastle.co.uk/"
+    },
+    {
+        "name":"Laneway & Co", 
+        "location": "17-19 High Bridge",
+        "city": "Newcastle upon Tyne",
+        "postcode": "NE1 1EW", 
+        "long":"-1.613135", 
+        "lat":"54.971481", 
+        
+        "categories": [
+            "tea",
+            "coffee", 
+            "lunch"
+        ],
+        "website":"https://www.lanewaycoffee.co.uk/"
+    },
+    {
+        "name":"Little Coffee Shop Under the Bridge", 
+        "location": "Under the Swing Bridge, Newcastle Quayside",
+        "city": "Newcastle upon Tyne",
+        "postcode": "NE1 3RG", 
+        "long":"-1.608538", 
+        "lat":"54.974268", 
+        
+        "categories": [
+            "coffee", 
+            "tea",
+            "hot chocolate"
+        ],
+        "website":"https://www.facebook.com/Little-Coffee-Shop-Under-The-Bridge-998173243647545/"
+    },
+    {
+        "name":"Baps", 
+        "location": "54 Pilgrim St",
+        "city": "Newcastle upon Tyne",
+        "postcode": "NE1 6SF", 
+        "long":"-1.610872", 
+        "lat":"54.972576", 
+        
+        "categories": [
+            "sarnies",
+            "jackets",
+            "salads",
+            "lunch"
+        ],
+        "website":""
+    },
+    {
+        "name":"Flat Caps Coffee, Carliol Square", 
+        "location": "9-11 Carliol Square",
+        "city": "Newcastle upon Tyne",
+        "postcode": "NE1 6UF", 
+        "long":"-1.608654", 
+        "lat":"54.973079", 
+        
+        "categories": [
+            "coffee",
+            "tea",
+            "lunch"
+        ],
+        "website":"http://www.flatcapscoffee.com/"
+    }
+]
