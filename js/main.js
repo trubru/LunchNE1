@@ -1,6 +1,6 @@
 var request = new XMLHttpRequest();
             
-request.open('GET', '../data/directory.json', true);
+request.open('GET', 'https://trubru.github.io/LunchNE1/data/directory.json', true);
 request.responseType = 'json';
 request.send(null);
 
