@@ -59,7 +59,7 @@ main {
 .card {
     position: relative;
     width: 23%;
-    margin: 1%;  
+    margin: 10px 1%;  
     box-sizing: border-box;
     padding: 10px 10px 30px 10px;
     border: 1px solid rgb(40, 26, 33);
